@@ -6,6 +6,9 @@ public class SomeProgram {
 	public void handleSatellite(){
 	}
 
+	public void handleRocket(){
+	}
+
     }
 	
 }
